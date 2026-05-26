@@ -15,4 +15,4 @@ qr = qrcode.make(upi_link)
 qr.save("upi_qr_no_amount.png")
 qr.show()
 
-print("✅ QR code (no fixed amount) saved as 'upi_qr_no_amount.png'") 
+print("✅ QR code saved as 'upi_qr_no_amount.png'")  
