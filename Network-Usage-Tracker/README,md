@@ -1,0 +1,138 @@
+# 📊 Network Usage Tracker
+
+A desktop-based network monitoring application built with **Python**, **Tkinter**, and **Psutil** that provides real-time network usage statistics, internet connectivity status, and bandwidth usage alerts through an intuitive graphical interface.
+
+---
+
+## 🚀 Overview
+
+Network Usage Tracker is designed to monitor network activity in real time. It continuously tracks incoming and outgoing network traffic, displays current bandwidth consumption, checks internet connectivity, and notifies users when usage exceeds a predefined threshold.
+
+This project demonstrates practical implementation of GUI development, system monitoring, networking concepts, and real-time data processing using Python.
+
+---
+
+## ✨ Features
+
+* 📈 Real-time network usage monitoring
+* 🌐 Internet connectivity status detection
+* 🖥️ Local IP address display
+* 🚨 Bandwidth threshold alert notifications
+* 🎨 Modern and user-friendly GUI
+* ⚡ Live updates without freezing the interface
+* 🔄 Continuous network activity tracking
+* 💻 Cross-platform Python implementation
+
+---
+
+## 🛠️ Technologies Used
+
+* Python 3
+* Tkinter
+* Psutil
+* Socket Programming
+* Pillow (PIL)
+
+---
+
+## 📂 Project Structure
+
+```text
+Network-Usage-Tracker/
+│
+├── main.py
+├── README.md
+│
+└── Images/
+    └── First.png
+    └──Second.png
+    └──Third.png
+```
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone <repository-url>
+cd Network-Usage-Tracker
+```
+
+### 2️⃣ Install Required Dependencies
+
+```bash
+pip install psutil pillow
+```
+
+---
+
+## ▶️ Running the Application
+
+Execute the following command:
+
+```bash
+python main.py
+```
+
+---
+
+## 🔍 How It Works
+
+1. Retrieves network I/O statistics using the **Psutil** library.
+2. Calculates sent and received bytes to determine current network usage.
+3. Checks internet connectivity using socket connections.
+4. Displays bandwidth usage and connection status in real time.
+5. Generates an alert when usage exceeds the configured threshold.
+
+---
+
+## 🎯 Skills Demonstrated
+
+This project showcases:
+
+* Python Programming
+* GUI Development with Tkinter
+* Real-Time Data Processing
+* Network Programming
+* System Resource Monitoring
+* Event-Driven Programming
+* Error Handling
+* Desktop Application Development
+* User Interface Design
+
+---
+
+## 📈 Future Enhancements
+
+* Download and upload speed separation
+* Network usage graphs and analytics
+* Daily and monthly usage reports
+* CSV/Excel export functionality
+* Dark/Light mode switching
+* Custom bandwidth threshold settings
+* Multi-network adapter support
+
+---
+
+## 📋 Requirements
+
+* Python 3.8+
+* Windows / Linux / macOS
+
+---
+
+## 👨‍💻 Author
+
+Developed as a Python-based Network Monitoring and Desktop Application project to demonstrate real-time system monitoring and GUI development skills.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License.
+
+---
+
+### ⭐ If you found this project useful, consider giving it a star on GitHub!
