@@ -44,9 +44,9 @@ Network-Usage-Tracker/
 ├── README.md
 │
 └── Images/
-    └── First.png
-    └──Second.png
-    └──Third.png
+    └── first.png
+    └── Second.png
+    └── Third.png
 ```
 
 ---
