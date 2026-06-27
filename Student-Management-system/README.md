@@ -33,19 +33,19 @@ Student-Management-System/
 1. Clone the repository:
 
 ```bash
-git clone <your-github-repository-link>
+git clone <https://github.com/gunjan-kumar-sah/Python-Project>
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd Student-Management-System
+cd Student-Management-system
 ```
 
 3. Run the Python file:
 
 ```bash
-python student_management.py
+python Main.py
 ```
 
 ## Sample Menu
